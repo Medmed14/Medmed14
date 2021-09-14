@@ -12,13 +12,28 @@ Je recherche actuellement mon premier job dans le développement, en attendant j
 
 Les technos avec lesquelles je travaille:
 
+<h5> front-end</h5>
 
 <ul>
   <li>HTML / CSS (bien évidemment!)</li>
   <li>jQuery</li>
   <li>React</li>
   <li>SASS / LESS</li>
-  <liGULP</li>
-  <li>PHP</li>
-  <li>Symfony</li>
+  <li>GULP</li>
+</ul>
+
+<h5> back-end</h5>
+
+<ul>
+  <li>MySql</li>
+  <li>PHP 7 / 8</li>
+  <li>Symfony 5.x</li>
+</ul>
+
+<h5> transversales </h5>
+
+<ul>
+  <li>approche DevOps avec DOCKER</li>
+  <li>Sécurisation</li>
+  <li>Tests unitaires</li>
 </ul>
