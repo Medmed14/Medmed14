@@ -33,6 +33,7 @@ Les technos avec lesquelles je travaille:
 <h5> transversales </h5>
 
 <ul>
+  <li>sensible à l'UX et aux interfaces de qualité</li>
   <li>approche DevOps avec DOCKER</li>
   <li>Sécurisation</li>
   <li>Tests unitaires</li>
