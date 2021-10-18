@@ -8,7 +8,7 @@ Je suis passionné par le développement web et plus particulièrement le front-
 Je me donne à 100% dans cette discipline depuis ma reconversion en 2020, toujours volontaire et autodidacte j'aime en apprendre d'avantage et me perfectionner chaque jours.
 Je recherche actuellement mon premier job dans le développement, en attendant j'effectue des missions freelance et des projets personnels pour me perfectionner.
 
-<h3>Mes compétences </h3>
+<h3> Mes compétences </h3>
 
 Les technos avec lesquelles je travaille:
 
@@ -16,6 +16,7 @@ Les technos avec lesquelles je travaille:
 
 <ul>
   <li>HTML / CSS (bien évidemment!)</li>
+  <li>javaScript</li>
   <li>jQuery</li>
   <li>React</li>
   <li>SASS / LESS</li>
