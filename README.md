@@ -35,7 +35,6 @@ Les technos avec lesquelles je travaille:
 <ul>
   <li>utilisation de Figma et Adobe XD</li>
   <li>sensible à l'UX et aux interfaces de qualité</li>
-  <li>approche DevOps avec DOCKER</li>
   <li>Sécurisation</li>
   <li>Tests unitaires</li>
 </ul>
